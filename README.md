@@ -1,2 +1,1 @@
-# AIFFEL_Quest
-이규상
+# AIFFEL_Quest 이규상
